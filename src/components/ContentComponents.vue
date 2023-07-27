@@ -1,8 +1,8 @@
 <template>
-    <h5 class="mb-2 text-3xl font-bold underline tracking-tight text-center text-gray-900 dark:text-white"><b><font color="blue  ">HandPhone Series</font></b></h5>
+    <h5 class="mb-2 text-3xl font-bold underline tracking-tight text-center text-gray-900 dark:text-white"><b><font color="blue ">HandPhone Series</font></b></h5>
     <br>
     <br>
- <div class="grid grid-cols-3 gap-3">
+ <div class="grid grid-cols-3 gap-3" style="margin-left: 2%">
 <div>  <the-card variant="image" img-src="https://s7d1.scene7.com/is/image/dish/iPhone_14_Pro_Max_Deep_Purple_PDP_Image_Position-1a__en-US?$ProductBase$" img-alt="Desk">
      <h5 class="mb-2 text-2xl font-bold tracking-tight text-red-700 dark:text-white">iPhone 14 Pro Max</h5>
      <p class="font-normal text-blue-700 dark:text-blue-400">
@@ -37,7 +37,7 @@
 <h5 class="mb-2 text-3xl font-bold underline tracking-tight text-center text-gray-900 dark:text-white"><b><font color="blue">Laptop Series</font></b></h5>
     <br>
     <br>
- <div class="grid grid-cols-3 gap-3">
+ <div class="grid grid-cols-3 gap-3" style="margin-left: 2%">
 <div>  <the-card variant="image" img-src="https://th.bing.com/th/id/OIP.LtUtQMvfYdlr1Kzzh1oD2wAAAA?pid=ImgDet&rs=1" img-alt="Desk">
      <h5 class="mb-2 text-2xl font-bold tracking-tight text-red-700 dark:text-white">MacBook Air 2020</h5>
      <p class="font-normal text-blue-700 dark:text-blue-400">
@@ -72,7 +72,7 @@
     <br>
     <br>
     <hr>
-<div class="grid grid-cols-3 gap-3 m-8">
+<div class="grid grid-cols-3 gap-3 m-8" style="margin-left: 2.8%">
  <div>
  <the-card href="#" variant="horizontal" img-src="https://www.bhphotovideo.com/images/images2500x2500/apple_mlcj2ll_a_watch_sport_smartwatch_38mm_1187205.jpg" img-alt="Desk">
  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Apple Watch</h5>

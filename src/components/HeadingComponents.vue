@@ -4,12 +4,9 @@ import { Button } from 'flowbite-vue';
 <template>
   <div class="flex flex-row mt-5">
     <div class="basis-1/2">
-      <h1 class="selamatdatang pt-16">ShealBird.</h1>
-      <p class="font-semibold">Selamat Datang Diwebsite ShealBird.</p>
-      <p class="font-semibold">
-        Website ini menyediakan informasi seputar brand-brand yang diciptakan oleh pihak Apple.
-      </p>
-      <p class="font-semibold"></p>
+      <h1 class="selamatdatang pt-10" style="text-align: center;">Welcome ShealBird!
+      </h1>
+      <p class="font-semibold text-center"></p>
     </div>
    
   </div>
