@@ -11,9 +11,7 @@ import { Button } from 'flowbite-vue';
       </p>
       <p class="font-semibold"></p>
     </div>
-    <div class="basis-1/2">
-      <img src="../assets/pabrik-svg.jpg" width="400" alt="" class="ml-8" />
-    </div>
+   
   </div>
 </template>
 
